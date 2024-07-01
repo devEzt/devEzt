@@ -19,17 +19,18 @@ I am a Frontend Developer with a degree in Software Engineering from UTFPR. I ha
 
 ## 🔥 Projetos em Destaque
 
-### 🛒 kingsShop
-Um e-commerce completo construído com React e Node.js.
-[Ver Repositório](https://github.com/devEzt/kingsShop)
+### 🛒 Client
+Este repositório contém uma aplicação cliente que demonstra práticas avançadas de desenvolvimento frontend.
+[Ver Repositório](https://github.com/devEzt/client)
 
-### 🎥 netflixClone
-Clone da interface da Netflix utilizando React.
-[Ver Repositório](https://github.com/devEzt/netflixClone)
+### 🌐 GitExplorerDBVD
+GitExplorerDBVD é uma aplicação web que permite aos usuários explorar perfis e repositórios do GitHub de maneira eficiente.
+[Ver Repositório](https://github.com/devEzt/github-repo-explorer-dbvd)
 
-### 📺 listagemAnimes
-Aplicação para listagem e favoritar animes, usando React.
-[Ver Repositório](https://github.com/devEzt/listagemAnimes)
+### 📚 Google Books
+Google Books é um projeto que integra a API do Google Books para buscar e visualizar livros, demonstrando a interação com APIs externas.
+[Ver Repositório](https://github.com/devEzt/google-books)
+
 
 
 
