@@ -1,15 +1,16 @@
-# Olá, eu sou Alexandre Maciel 👋
+# Hello, I'm Alexandre Maciel 👋
 
-Sou um desenvolvedor Full Stack em progresso e entusiasta de GameDev. Aqui no meu GitHub, você encontrará projetos que refletem minha paixão por aprender e construir aplicações impactantes.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alexandre-blue.svg)](https://www.linkedin.com/in/alexandreh-maciel/)
 
-## 🚀 Tecnologias
-Aqui estão algumas das tecnologias com as quais trabalho:
+I am a Frontend Developer with a degree in Software Engineering from UTFPR. I have extensive experience in developing ERP solutions and business management software for various sectors such as health, education, and languages. Moreover, I have significant experience in developing advanced web applications that utilize geolocation.
 
-- JavaScript (ES6+)
-- React & React Native
-- Node.js
-- GraphQL
-- Docker
+## Experience and skills:
+- **Frontend and Backend Development**: Proficient in JavaScript ES6, React, Next.js, Formik, Yup, ContextAPI, and Tailwind CSS; advanced skills in HTML5, CSS3, and TypeScript. Hands-on experience with NodeJS, developing APIs, and integrating backend systems.
+- **Geolocation Applications**: Experienced in developing web applications that use geolocation, providing accurate and up-to-date real-time data for weather forecasting and other environmental applications.
+- **Tools and Systems**: Expertise in JIRA, Azure DevOps, GitLab, Git, and Figma, facilitating team collaboration and project management using cutting-edge tools.
+- **Design and UX**: Basic knowledge of Figma, contributing to the creation of intuitive and visually appealing interfaces alongside the UI/UX team.
+- **Agile Methodology**: Deep practical knowledge in Scrum, participating in sprints and agile planning meetings for efficient project delivery.
+
 
 ![devEzt's GitHub stats](https://github-readme-stats.vercel.app/api?username=devEzt&show_icons=true&theme=tokyonight)
 
@@ -30,11 +31,5 @@ Clone da interface da Netflix utilizando React.
 Aplicação para listagem e favoritar animes, usando React.
 [Ver Repositório](https://github.com/devEzt/listagemAnimes)
 
-## 📫 Como me encontrar
 
-- LinkedIn: [Seu LinkedIn](https://linkedin.com)
-- Twitter: [@seuTwitter](https://twitter.com)
-- E-mail: seuemail@example.com
-
-![devEzt's GitHub stats](https://github-readme-stats.vercel.app/api?username=devEzt&show_icons=true&theme=tokyonight)
 
