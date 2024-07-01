@@ -1,16 +1,40 @@
-## Hi there 👋
+# Olá, eu sou Alexandre Maciel 👋
 
-<!--
-**devEzt/devEzt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um desenvolvedor Full Stack em progresso e entusiasta de GameDev. Aqui no meu GitHub, você encontrará projetos que refletem minha paixão por aprender e construir aplicações impactantes.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias
+Aqui estão algumas das tecnologias com as quais trabalho:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- JavaScript (ES6+)
+- React & React Native
+- Node.js
+- GraphQL
+- Docker
+
+![devEzt's GitHub stats](https://github-readme-stats.vercel.app/api?username=devEzt&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devEzt&theme=tokyonight&layout=compact)
+
+
+## 🔥 Projetos em Destaque
+
+### 🛒 kingsShop
+Um e-commerce completo construído com React e Node.js.
+[Ver Repositório](https://github.com/devEzt/kingsShop)
+
+### 🎥 netflixClone
+Clone da interface da Netflix utilizando React.
+[Ver Repositório](https://github.com/devEzt/netflixClone)
+
+### 📺 listagemAnimes
+Aplicação para listagem e favoritar animes, usando React.
+[Ver Repositório](https://github.com/devEzt/listagemAnimes)
+
+## 📫 Como me encontrar
+
+- LinkedIn: [Seu LinkedIn](https://linkedin.com)
+- Twitter: [@seuTwitter](https://twitter.com)
+- E-mail: seuemail@example.com
+
+![devEzt's GitHub stats](https://github-readme-stats.vercel.app/api?username=devEzt&show_icons=true&theme=tokyonight)
+
