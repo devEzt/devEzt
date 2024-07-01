@@ -21,19 +21,19 @@ I am a Frontend Developer with a degree in Software Engineering from UTFPR. I ha
 
 
 
-## 🔥 Projetos em Destaque
+## 🔥 Featured Projects
 
 ### 🛒 Client
-Este repositório contém uma aplicação cliente que demonstra práticas avançadas de desenvolvimento frontend.
-[Ver Repositório](https://github.com/devEzt/client)
+This repository contains a client application demonstrating advanced frontend development practices.
+[View Repository](https://github.com/devEzt/client)
 
 ### 🌐 GitExplorerDBVD
-GitExplorerDBVD é uma aplicação web que permite aos usuários explorar perfis e repositórios do GitHub de maneira eficiente.
-[Ver Repositório](https://github.com/devEzt/github-repo-explorer-dbvd)
+GitExplorerDBVD is a web application that enables users to efficiently explore GitHub profiles and repositories.
+[View Repository](https://github.com/devEzt/github-repo-explorer-dbvd)
 
 ### 📚 Google Books
-Google Books é um projeto que integra a API do Google Books para buscar e visualizar livros, demonstrando a interação com APIs externas.
-[Ver Repositório](https://github.com/devEzt/google-books)
+Google Books is a project integrating the Google Books API to search and display books, showcasing interaction with external APIs.
+[View Repository](https://github.com/devEzt/google-books)
 
 
 
