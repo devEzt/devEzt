@@ -11,14 +11,14 @@ I am a Frontend Developer with a degree in Software Engineering from UTFPR. I ha
 - **Design and UX**: Basic knowledge of Figma, contributing to the creation of intuitive and visually appealing interfaces alongside the UI/UX team.
 - **Agile Methodology**: Deep practical knowledge in Scrum, participating in sprints and agile planning meetings for efficient project delivery.
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devEzt&theme=tokyonight&layout=compact" alt="Top Languages">
+<p align="center">
+  <a href="https://github.com/devEzt">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devEzt&theme=tokyonight&layout=compact" alt="Top Languages" />
+  </a>
+  <a href="https://github.com/devEzt">
+    <img src="https://github-readme-stats.vercel.app/api?username=devEzt&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="GitHub Stats" />
+  </a>
 </p>
-
-<p align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=devEzt&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="GitHub Stats">
-</p>
-
 
 
 ## 🔥 Featured Projects
