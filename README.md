@@ -15,9 +15,6 @@ I am a Frontend Developer with a degree in Software Engineering from UTFPR. I ha
   <a href="https://github.com/devEzt">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devEzt&theme=tokyonight&layout=compact" alt="Top Languages" />
   </a>
-  <a href="https://github.com/devEzt">
-    <img src="https://github-readme-stats.vercel.app/api?username=devEzt&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="GitHub Stats" />
-  </a>
 </p>
 
 
